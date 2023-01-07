@@ -154,12 +154,43 @@ button{
     bottom: 20;
     border: 4px solid black;
 }
+/* foote section */
+footer{
+    background-color: black;
+    color: aqua;
+    width: 100%;
+    height: 50vr;
+    
+}
+.footer-section h1{
+    font-size: 40px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.footer-section p{
+    margin-left: 200px;
+    margin-top: 10px;
+    font-size: 20px;
+    display: flex;
+}
+.footer-icon{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 20px;
+    gap: 10px;
+}
 
+.input{
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+    position: relative
+}
 
-
-
-
-
+.email{
+    font-size: 20px;
+    padding: 5px 10px;
+}
 
 
 
